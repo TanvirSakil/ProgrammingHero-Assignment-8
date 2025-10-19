@@ -92,7 +92,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a href="https://github.com"
+          <a href="https://github.com/TanvirSakil/ProgrammingHero-Assignment-8.git"
             target="_blank"
             rel="noopener noreferrer" className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white p-2 md:mr-12 "> <i className="fa-solid fa-plus"></i> <FaGithub />Contribute</a>
         </div>
