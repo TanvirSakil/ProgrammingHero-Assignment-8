@@ -22,11 +22,11 @@ const AllApps = () => {
 
     <div className="bg-sky-50 pb-10 min-h-screen">
       <h3 className="text-center font-bold text-3xl p-5">All Our App</h3>
-      <p className="text-center text-gray-700">
+      <p className="text-center text-gray-700 mx-6">
         Explore All Trending Apps on The Market developed by us
       </p>
 
-      <div className="flex justify-between max-w-[1300px] mx-auto mt-6">
+      <div className="flex justify-between max-w-[1300px] mx-8 md:mx-auto mt-6">
         <h3 className="text-xl font-semibold">
           (<span>{filteredApps.length}</span>) App Found
         </h3>

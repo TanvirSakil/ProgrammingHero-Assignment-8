@@ -18,10 +18,10 @@ const DefaultHomeApp = () => {
       <State></State>
 
       <h3 className='text-center font-bold text-3xl p-5'  >Trending app</h3>
-      <p className='text-center text-gray-700 '>Explore All Trending Apps on The Market developed by us</p>
+      <p className='text-center text-gray-700 mx-6 '>Explore All Trending Apps on The Market developed by us</p>
 
 
-      <div className='grid grid-cols-4  max-w-[1350px] mx-auto mt-6'>
+      <div className='grid grid-cols-1 md:grid-cols-4  max-w-[1350px] mx-auto mt-6'>
 
         {
 

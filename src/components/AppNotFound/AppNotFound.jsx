@@ -7,16 +7,16 @@ const AppNotFound = () => {
   const navigate = useNavigate();
   return (
     <div className=' bg-sky-50  p-8'>
-      <div className="flex flex-col items-center  bg-white justify-center h-screen text-center px-6 max-w-[1000px] mx-auto shadow-2xl max-h-[480px] rounded-2xl">
+      <div className="flex flex-col items-center   bg-white justify-center h-screen text-center px-6 max-w-[1000px] mx-auto shadow-2xl max-h-[480px] rounded-2xl">
    
         <img
           src="/images/App-Error.png"
           alt="app not found"
-          className="w-60 mb-6"
+          className="w-50 md:w-60 mb-6 "
         />
 
         
-        <h1 className="text-5xl font-extrabold text-gray-800 mb-3">
+        <h1 className="text-3xl md:text-5xl font-extrabold text-gray-800 mb-3">
           App is not Found
         </h1>
 

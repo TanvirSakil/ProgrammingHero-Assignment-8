@@ -114,12 +114,12 @@ const InstallationApp = () => {
 
         <div className=" ">
           {installedApps.map((app) => (
-            <div
+            <div 
               key={app.id}
-              className="bg-white rounded-xl shadow-lg p-4 text-center hover:shadow-xl transition flex justify-between items-center my-4"
+              className="bg-white rounded-xl shadow-lg p-4 text-center hover:shadow-xl transition flex justify-between items-center my-4 flex-col md:flex-row"
             >
 
-              <div className="flex items-center gap-4">
+              <div className="flex flex-col md:flex-row items-center gap-4">
 
                 <div>
                   <img
@@ -144,7 +144,7 @@ const InstallationApp = () => {
               </div>
 
 
-              <div className="flex justify-center gap-3 mt-3">
+              <div className="flex  justify-center gap-3 mt-3">
 
                 <Link
                   to={`/apps/${app.id}`}

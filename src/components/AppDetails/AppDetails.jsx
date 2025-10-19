@@ -126,7 +126,7 @@ const AppDetails = () => {
 
    
       <div className="max-w-[1450px] mx-auto">
-        <h3 className="text-xl font-bold border-t-2 border-gray-200 mt-10 ml-40">
+        <h3 className="text-xl font-bold md:border-t-2 border-gray-200 mt-10 ml-40 ">
           Ratings
         </h3>
         <div className="flex flex-col items-center justify-center mt-10">
@@ -153,7 +153,7 @@ const AppDetails = () => {
 
     
       <div className="max-w-[1200px] mx-auto mt-6">
-        <h3 className="border-t-2 border-gray-200 text-xl font-semibold p-2">
+        <h3 className="border-t-2 border-gray-200 text-xl font-semibold p-2 text-center md:text-start">
           Description
         </h3>
         <p className="p-8 text-gray-600">{app.description}</p>

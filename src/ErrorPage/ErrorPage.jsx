@@ -7,7 +7,8 @@ const ErrorPage = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-sky-50 text-center px-6">
+<div className=' '>
+    <div className="flex flex-col my-12 md:my-30   items-center justify-center h-[100%]  text-center px-6 bg-white  ">
 
       <img
         src="/images/error-404.png"
@@ -33,6 +34,8 @@ const ErrorPage = () => {
         Go Back Home
       </button>
     </div>
+
+</div>
   );
 };
 
