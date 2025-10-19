@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router";
+import { toast } from "react-toastify";
 
 
 
@@ -37,6 +38,7 @@ const InstallationApp = () => {
     const updatedApps = installedApps.filter((app) => app.id !== appId);
     setInstalledApps(updatedApps);
     localStorage.setItem("installedApps", JSON.stringify(updatedApps));
+    toast("App Uninstalled Successfully")
   };
 
 
@@ -164,6 +166,8 @@ const InstallationApp = () => {
         </div>
       </div>
     </div>
+
+    
   );
 };
 

@@ -10,6 +10,7 @@ import {
   CartesianGrid,
   ResponsiveContainer,
 } from "recharts";
+import { toast } from "react-toastify";
 
 
 
@@ -37,7 +38,7 @@ const AppDetails = () => {
  
   const handleInstall = () => {
     setInstalled(true);
-    alert(`${app.title} Installed Successfully!`);
+    toast(`${app.title} Installed Successfully!`);
 
     const installedApps = JSON.parse(localStorage.getItem("installedApps")) || [];
     const alreadyInstalled = installedApps.some((a) => a.id === app.id);
