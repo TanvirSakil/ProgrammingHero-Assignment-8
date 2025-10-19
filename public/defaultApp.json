@@ -1,0 +1,266 @@
+[
+  {
+    "image": "https://i.ibb.co.com/0vfhc8S/image.png",
+    "title": "Snapify",
+    "companyName": "PixelCraft Studios",
+    "id": 1,
+    "description": "Snapify is your ultimate photo editing companion that brings professional-grade tools to your fingertips. With powerful AI-driven filters, instant background removal, and intelligent lighting adjustments, you can transform ordinary photos into stunning masterpieces in seconds. Snapify also offers beauty retouching, creative overlays, and one-tap color correction for quick perfection. Whether you're creating social media content or professional portraits, Snapify makes editing effortless, fun, and beautifully precise — all with an intuitive interface designed for everyone, from beginners to photography enthusiasts. Capture, edit, and share like a pro with Snapify!",
+    "size": 125,
+    "reviews": 48213,
+    "ratingAvg": 4.5,
+    "downloads": "1.2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2300
+      },
+      {
+        "name": "2 star",
+        "count": 1800
+      },
+      {
+        "name": "3 star",
+        "count": 4600
+      },
+      {
+        "name": "4 star",
+        "count": 10200
+      },
+      {
+        "name": "5 star",
+        "count": 29313
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0VsdVqnx/image.png",
+    "title": "TaskFlow",
+    "companyName": "NeuroSoft Labs",
+    "id": 2,
+    "description": "TaskFlow helps you stay productive and organized like never before. Easily create to-do lists, manage deadlines, and track your daily progress with smart reminders and insightful productivity reports. Its AI-based task suggestions adapt to your habits, helping you focus on what truly matters. Whether you’re managing personal goals, team projects, or study schedules, TaskFlow’s clean interface and cloud synchronization make your workflow seamless across all devices. Boost efficiency, eliminate procrastination, and stay in control with a task manager that truly understands you. Simplify your day — one smart task at a time.",
+    "size": 89,
+    "reviews": 21045,
+    "ratingAvg": 4.2,
+    "downloads": "850K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1100
+      },
+      {
+        "name": "2 star",
+        "count": 1400
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 6700
+      },
+      {
+        "name": "5 star",
+        "count": 10745
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KzfXZt5s/image.png",
+    "title": "FitPulse",
+    "companyName": "ActiveLife Inc.",
+    "id": 3,
+    "description": "FitPulse is your personal fitness partner that helps you reach your goals with precision and motivation. Create customized workout plans, monitor calories, track your steps, and view detailed progress charts all in one place. With AI-driven coaching, smart reminders, and heart-rate insights, FitPulse makes every move count. Whether you’re losing weight, building muscle, or maintaining wellness, the app adjusts to your pace and needs. Stay inspired with daily challenges, expert tips, and community motivation. FitPulse doesn’t just track your fitness — it transforms your lifestyle for lasting results.",
+    "size": 150,
+    "reviews": 39762,
+    "ratingAvg": 4.7,
+    "downloads": "2.2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1900
+      },
+      {
+        "name": "2 star",
+        "count": 2300
+      },
+      {
+        "name": "3 star",
+        "count": 3500
+      },
+      {
+        "name": "4 star",
+        "count": 8900
+      },
+      {
+        "name": "5 star",
+        "count": 23162
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/prdxdZPD/image.png",
+    "title": "NoteNest",
+    "companyName": "BlueBay Technologies",
+    "id": 4,
+    "description": "NoteNest turns your ideas into organized brilliance. Capture quick notes, create checklists, and record thoughts effortlessly with AI-powered tagging and voice input. Notes sync securely across all your devices, ensuring your information is always at your fingertips. With rich formatting, search filters, and color-coded organization, finding what you need has never been easier. Perfect for students, professionals, and creatives alike, NoteNest simplifies your workflow and keeps your mind clutter-free. Whether you’re jotting a reminder or planning a project, NoteNest makes every idea matter.",
+    "size": 72,
+    "reviews": 15520,
+    "ratingAvg": 4.0,
+    "downloads": "600K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 900
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 2600
+      },
+      {
+        "name": "4 star",
+        "count": 4800
+      },
+      {
+        "name": "5 star",
+        "count": 6020
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LzknmKH8/image.png",
+    "title": "TravelMate",
+    "companyName": "GlobeGo",
+    "id": 5,
+    "description": "TravelMate is your ultimate travel planner and discovery companion. Explore breathtaking destinations, plan trips effortlessly, and receive personalized itineraries tailored to your interests. Find top attractions, book hotels and flights, and access insider tips for a seamless journey. With offline access, travel budgets, and smart maps, TravelMate ensures stress-free adventures anywhere you go. Whether you’re a solo traveler, a couple, or a family, TravelMate brings the world closer to you. Make every journey unforgettable with AI-powered recommendations and a truly immersive travel experience.",
+    "size": 140,
+    "reviews": 34500,
+    "ratingAvg": 4.6,
+    "downloads": "1.7M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1600
+      },
+      {
+        "name": "2 star",
+        "count": 1900
+      },
+      {
+        "name": "3 star",
+        "count": 4200
+      },
+      {
+        "name": "4 star",
+        "count": 7600
+      },
+      {
+        "name": "5 star",
+        "count": 19100
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0yTzqzJY/image.png",
+    "title": "SoundWave",
+    "companyName": "EchoVerse",
+    "id": 6,
+    "description": "SoundWave redefines your music experience with high-fidelity audio streaming and intelligent playlist curation. Discover millions of songs, trending podcasts, and exclusive releases personalized to your taste. With smart recommendations, offline playback, and cross-device syncing, your favorite sounds are always within reach. SoundWave also features mood-based mixes, custom equalizers, and social sharing tools so you can vibe with friends anytime. Whether you’re relaxing, working, or working out, SoundWave tunes every moment perfectly. Dive into pure sound — powered by AI, inspired by you.",
+    "size": 210,
+    "reviews": 58912,
+    "ratingAvg": 4.3,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2800
+      },
+      {
+        "name": "2 star",
+        "count": 3100
+      },
+      {
+        "name": "3 star",
+        "count": 7500
+      },
+      {
+        "name": "4 star",
+        "count": 14500
+      },
+      {
+        "name": "5 star",
+        "count": 30912
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/CpK8sCM9/image.png",
+    "title": "EduSpark",
+    "companyName": "MindBridge Learning",
+    "id": 7,
+    "description": "EduSpark transforms the way you learn with interactive lessons, engaging videos, and personalized progress tracking. Explore a vast library of subjects designed by top educators and practice with adaptive quizzes that help you master every concept. Whether you’re preparing for exams or learning new skills, EduSpark keeps your motivation high with achievements and streak rewards. With AI-driven insights and offline access, education becomes accessible anytime, anywhere. EduSpark makes learning smarter, faster, and more enjoyable for students of all ages.",
+    "size": 165,
+    "reviews": 27890,
+    "ratingAvg": 4.4,
+    "downloads": "950K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500
+      },
+      {
+        "name": "2 star",
+        "count": 1700
+      },
+      {
+        "name": "3 star",
+        "count": 3400
+      },
+      {
+        "name": "4 star",
+        "count": 6200
+      },
+      {
+        "name": "5 star",
+        "count": 15090
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mVgTNPfX/image.png",
+    "title": "ShopSmart",
+    "companyName": "NextCart Ltd.",
+    "id": 8,
+    "description": "ShopSmart helps you shop smarter and save more with powerful price-comparison tools and real-time deals. Browse thousands of online stores, track discounts, and get instant alerts when your favorite products drop in price. The app also analyzes trends to recommend the best time to buy. Whether you’re hunting gadgets, fashion, or groceries, ShopSmart ensures you get the best value for your money. With wishlist tracking, coupons, and cashback offers, shopping online has never been this rewarding.",
+    "size": 98,
+    "reviews": 19230,
+    "ratingAvg": 4.1,
+    "downloads": "720K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 1400
+      },
+      {
+        "name": "3 star",
+        "count": 3100
+      },
+      {
+        "name": "4 star",
+        "count": 5200
+      },
+      {
+        "name": "5 star",
+        "count": 10330
+      }
+    ]
+  }
+]
